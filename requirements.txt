@@ -1,0 +1,13 @@
+streamlit
+ultralytics
+pillow
+numpy
+torch
+torchvision
+transformers
+sentencepiece
+opencv-python-headless
+streamlit
+groq
+ultralytics
+pillow

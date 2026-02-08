@@ -1,0 +1,14 @@
+name: agri
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - pyarrow
+  - numexpr
+  - bottleneck
+  - streamlit
+  - pip:
+      - -r requirements.txt
